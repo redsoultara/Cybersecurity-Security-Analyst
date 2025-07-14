@@ -16,6 +16,8 @@ Dieses Glossar richtet sich an angehende Security Analysts mit Fokus auf SOC, SI
 
 | **Risk** | Wahrscheinlichkeit + Auswirkung einer Bedrohung. |
 
+| **Threat Intelligence**| Threat intelligence collects information to help the company better prepare against potential adversaries.|
+
 ---
 
 ## 🏢 SOC & Blue Team
