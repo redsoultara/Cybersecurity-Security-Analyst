@@ -28,7 +28,7 @@ Dieses Glossar richtet sich an angehende Security Analysts mit Fokus auf SOC, SI
 | **Security Analyst** | Analyst:in im SOC – prüft Logs, bewertet Alarme, reagiert auf Vorfälle. |
 | **Tier 1 / Tier 2** | T1: Erste Alarmprüfung. T2: Tiefenanalyse und Eskalation. |
 | **Blue Team** | Defensive Seite in der IT-Sicherheit. |
-| **Red Team** | Simuliert Angriffe, testet Abwehrmechanismen. |
+| **Red Team** | Offensive Seite, Simuliert Angriffe, testet Abwehrmechanismen. |
 | **Purple Team** | Zusammenarbeit von Red & Blue Team. |
 
 ---
