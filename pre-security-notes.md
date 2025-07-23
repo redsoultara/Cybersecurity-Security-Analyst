@@ -107,6 +107,34 @@ The application layer of the OSI model is the layer that you will be most famili
 Everyday applications such as email clients, browsers, or file server browsing software such as FileZilla provide a friendly, Graphical User Interface (GUI) for users to interact with data sent or received. Other protocols include DNS (Domain Name System), which is how website addresses are translated into IP addresses.
 
 
+**Packets and Frames**
+
+**TCP (or Transmission Control Protocol for short)** is another one of these rules used in networking.
+
+This protocol is very similar to the OSI model that we have previously discussed in room three of this module so far. The TCP/IP protocol consists of four layers and is arguably just a summarised version of the OSI model. These layers are:
+Application
+Transport
+Internet
+Network Interface
+
+Very similar to how the OSI model works, information is added to each layer of the TCP model as the piece of data (or packet) traverses it. As you may recall, this process is known as encapsulation - where the reverse of this process is decapsulation.
+
+One defining feature of TCP is that it is connection-based, which means that TCP must establish a connection between both a client and a device acting as a server before data is sent.
+Any sent data is given a random number sequence and is reconstructed using this number sequence and incrementing by 1. Both computers must agree on the same number sequence for data to be sent in the correct order. This order is agreed upon during three steps:
+
+SYN - Client: Here's my Initial Sequence Number(ISN) to SYNchronise with (0)
+SYN/ACK - Server: Here's my Initial Sequence Number (ISN) to SYNchronise with (5,000), and I ACKnowledge your initial number sequence (0)
+ACK - Client: I ACKnowledge your Initial Sequence Number (ISN) of (5,000), here is some data that is my ISN+1 (0 + 1)
+Device
+Initial Number Sequence (ISN)	
+Final Number Sequence	
+Client (Sender)	
+0	0 + 1 = 1
+Client (Sender)	
+1	    1 + 1 = 2	
+Client (Sender)	
+2	
+2 + 1 = 3
 
 
 
