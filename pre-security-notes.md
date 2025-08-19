@@ -136,6 +136,23 @@ Client (Sender)
 2	
 2 + 1 = 3
 
+Whats DNS?
+--> Domain Name System, using a name instaed of IP Adress 
+
+Domain Hierachy:
+TLD (Top-Level-Domain)--> the most righthand part of the domain such as ".edu, .com". -->gTLD:Generic Top Level; ccTLD:Country Code Top Level
+Second Level Domain--> name of the website
+Subdomain: sits on the lefthand side of the second level domain and is seperated by ; or .
+
+
+Whats HTTP?(Hypertext Transfer Protocol Secure)
+--> set of rules used for communicating with web servers for the tgransmitting of webpage data, html, videos, etc.
+Whats HTTPS?
+--> Hypertext Transfer Protocol SECURE; data is encrypted
+
+Whats a Url?
+--> Uniform Resource Locator: instruction on how to acces a resource on the internet
+
 
 
 
