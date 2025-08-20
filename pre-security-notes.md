@@ -150,12 +150,15 @@ Subdomain: sits on the lefthand side of the second level domain and is seperated
 Whats HTTPS?
 --> Hypertext Transfer Protocol SECURE; data is encrypted
 
-**Whats a Url?***
+**Whats a Url?**
 --> Uniform Resource Locator: instruction on how to acces a resource on the internet
 
 HTTP Methods:
 Get: getting information from the server
 post: submitting data to the server
+
+
+
 
 
 
