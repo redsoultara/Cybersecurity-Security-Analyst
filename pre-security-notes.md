@@ -159,8 +159,10 @@ post: submitting data to the server
 
 
 **Load Balancers**
+
 CDN- Content delivery Networks: cuts down traffic on a busy website. Allows to host static files from servers all over the world and picks the nearsest one when requested.
 Databases- store and recall data. (MySQL, MSSQL, MongoDB)
+
 WAF- wall that sits between web request and server, blocks request if it activates rate limiting(too many requests from one IP Adress per second)
 
 
