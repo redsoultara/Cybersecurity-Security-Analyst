@@ -167,6 +167,12 @@ WAF- wall that sits between web request and server, blocks request if it activat
 
 
 
+**Linux Fundamentals**
+--> SSH, Secure Shell or SSH simply is a protocol between devices in an encrypted form. Using cryptography, any input we send in a human-readable format is encrypted for travelling over a network -- where it is then unencrypted once it reaches the remote machine.
+
+
+
+
 
 
 
